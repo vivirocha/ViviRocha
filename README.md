@@ -1,8 +1,15 @@
-### Hello, friends! I'm Viviane Rocha, but you can call me Vivi 🤗
-#### Welcome to my profile!
+<h3 align="center">
+	  Hello, friends! I'm Viviane Rocha, but you can call me Vivi
+	  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+	  
+Welcome to my profile!🤗
+  </h3>
 <br>
 
+<p align="center">
+  <a href="https://github.com/vivirocha/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Curious!%20;Data%20Science;Machine%20Learning;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FF1493&vCenter=true&size=22"></a>
 
+</p>
 😄 Pronouns: She, Her.
 
 🔭 I’m currently working on sales and marketing.
@@ -75,6 +82,15 @@
 <br>
 <br>
 <a href="https://www.buymeacoffee.com/vivianerocha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 135px !important;" ></a>
+
+
+ <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
+
+
+
+
+
 <!--
 **vivirocha/ViviRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
