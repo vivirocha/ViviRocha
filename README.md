@@ -85,10 +85,6 @@ Welcome to my profile!🤗
 <a href="https://www.buymeacoffee.com/vivianerocha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 135px !important;" ></a>
 
 
- <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
-
-
 
 
 
